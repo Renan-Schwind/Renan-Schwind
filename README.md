@@ -1,4 +1,4 @@
-## Bem vindo meu perfil. Me chamo Renan Schwind, prazer 
+## Bem vindo ao meu perfil. Me chamo Renan Schwind, prazer 
 
 <div>
   <a href="https://github.com/Renan-Schwind">
